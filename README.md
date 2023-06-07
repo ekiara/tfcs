@@ -8,7 +8,7 @@ files
 
 ## Glossary
 
-[0] homogenous
+### [0] homogenous
 Blocks are binary files that conform to a limted range file size
 (maybe 1MB - 4MB or 5MB-50MB). Files that are uploaded are striped to these 
 blocks and the blocks are two-way encrypted with a gpg key.
